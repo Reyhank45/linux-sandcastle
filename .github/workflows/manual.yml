@@ -38,4 +38,4 @@ jobs:
       with:
         name: m1n1
         path: |
-          arch/arm64/boot/dts/apple/*
+          arch/arm64/boot/dts/apple/
